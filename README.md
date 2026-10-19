@@ -6,9 +6,17 @@
 
 Proyek dasbor interaktif berbasis web untuk memantau **Indeks Kualitas Udara (AQI) secara Real-Time** menggunakan pendekatan *Human-Computer Interaction (HCI)* dan *Data Visualization*.
 
-Proyek ini disusun sebagai studi kasus dari materi *Human-Computer Interaction & Data Visualization* (Arafat Febriandirza, Ph.D. - Chief of Research Group for HCI & Visualization BRIN, Informatic Practitioner Lecture Series 2026), dan menerapkan 6 modul utama yang dibahas pada kuliah tersebut.
+Proyek ini disusun sebagai studi kasus dari materi *Human-Computer Interaction & Data Visualization* (Arafat Febriandirza - Chief of Research Group for HCI & Visualization BRIN, Informatic Practitioner Lecture Series 2026), dan menerapkan 6 modul utama yang dibahas pada kuliah tersebut.
 
 ---
+
+## 🚀 Live Demo (GitHub Pages)
+
+Situs dasbor interaktif ini dapat diakses secara langsung melalui tautan berikut:  
+🔗 **[https://DiosiPutriArlita.github.io/air_quality_dashboard/](https://DiosiPutriArlita.github.io/air_quality_dashboard/)**
+
+---
+
 
 ## Ringkasan Penerapan Modul IMK & Visualisasi Data
 
